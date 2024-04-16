@@ -11,7 +11,7 @@ import static io.restassured.RestAssured.given;
 public class C6_Post_Response_BodyTesti {
     /*
 
-           https://jsonplaceholder.typicode.com/posts url'ine asagidaki body ile bir POST request gonderdigimizde
+       https://jsonplaceholder.typicode.com/posts url'ine asagidaki body ile bir POST request gonderdigimizde
                    {
                    "title":"API",
                    "body":"API ogrenmek ne guzel",

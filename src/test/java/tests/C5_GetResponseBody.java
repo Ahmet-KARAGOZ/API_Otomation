@@ -28,7 +28,7 @@ oldugunu test edin.
                 .statusCode(200)
                 .contentType("application/json; charset=utf-8")
                 .body("userId" , Matchers.equalTo(5))
-                .body("title" , equalTo("optio dolor molestias sit")); //Yukarıya statik class olarak eklediğim zaman bu şekilde yazabiliyoruz.
+                .body("title" , equalTo("optio dolor molestias sit")); //Matchers ı Yukarıya statik class olarak eklediğim zaman bu şekilde yazabiliyoruz.y
 
         System.out.println(response.prettyPrint());
     }
