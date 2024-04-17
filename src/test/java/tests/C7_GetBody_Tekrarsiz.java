@@ -17,7 +17,8 @@ public class C7_GetBody_Tekrarsiz {
             ve "lastname"in, "Smith",
             ve "totalprice"in, 111,
             ve "depositpaid"in, true,
-            ve "additionalneeds"in, "Breakfast" oldugunu test edin
+            ve "additionalneeds"in, "Breakfast"
+            oldugunu test edin
             NOT: Veriler değişiyor Postman'de dataları kontrol ediniz
      */
     @Test

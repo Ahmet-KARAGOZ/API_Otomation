@@ -23,6 +23,7 @@ https://restful-booker.herokuapp.com/booking url'ine asagidaki body'ye sahip
     "additionalneeds" : "wi-fi"
  }
  donen Response'un,
+
  status code'unun 200,
  ve content type'inin application/json,
  ve response body'sindeki
@@ -32,6 +33,7 @@ https://restful-booker.herokuapp.com/booking url'ine asagidaki body'ye sahip
  ve "depositpaid"in,false,
  ve "checkin" tarihinin 2021-06-01 ve "checkout" tarihinin 2021-06-10
  ve "additionalneeds"in,"wi-fi"
+
  oldugunu test edin
 
  */
